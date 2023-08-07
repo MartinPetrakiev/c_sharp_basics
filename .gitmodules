@@ -1,3 +1,6 @@
 [submodule "data_types_vars"]
 	path = data_types_vars
 	url = https://github.com/MartinPetrakiev/c_sharp_data_types_vars.git
+[submodule "c_sharp_operators_expressions"]
+	path = c_sharp_operators_expressions
+	url = https://github.com/MartinPetrakiev/c_sharp_operators_expressions.git
