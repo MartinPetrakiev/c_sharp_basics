@@ -4,3 +4,6 @@
 [submodule "c_sharp_operators_expressions"]
 	path = c_sharp_operators_expressions
 	url = https://github.com/MartinPetrakiev/c_sharp_operators_expressions.git
+[submodule "c_sharp_console_input_output"]
+	path = c_sharp_console_input_output
+	url = https://github.com/MartinPetrakiev/c_sharp_console_input_output.git
