@@ -7,3 +7,6 @@
 [submodule "c_sharp_console_input_output"]
 	path = c_sharp_console_input_output
 	url = https://github.com/MartinPetrakiev/c_sharp_console_input_output.git
+[submodule "c_sharp_conditional_statements"]
+	path = c_sharp_conditional_statements
+	url = https://github.com/MartinPetrakiev/c_sharp_conditional_statements.git
