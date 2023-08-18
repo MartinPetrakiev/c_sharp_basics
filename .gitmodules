@@ -13,3 +13,6 @@
 [submodule "c_sharp_loops"]
 	path = c_sharp_loops
 	url = https://github.com/MartinPetrakiev/c_sharp_loops.git
+[submodule "c_sharp_arrays"]
+	path = c_sharp_arrays
+	url = https://github.com/MartinPetrakiev/c_sharp_arrays.git
